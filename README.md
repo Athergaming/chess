@@ -21,4 +21,6 @@ You can start editing the page by modifying `app/page.tsx`. The page auto-update
 This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
 ## About the Project
-Simple Chess game, all the chess rules are followed, and you are able to take turns.
+Simple Chess game, all the chess rules are followed, and you are able to take turns. This proejct is built using NextJs and Tailwind. 
+
+## Project is free to use!
