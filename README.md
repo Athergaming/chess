@@ -1,9 +1,11 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## About the Project
+Simple Chess game, all the chess rules are followed, and you are able to take turns. This proejct is built using NextJs and Tailwind. 
+
+## Project is free to use!
+Feel free to use this project anytime, it was a small fun project of mine.
 
 ## Getting Started
-
-First, run the development server:
-
+To run the project:
 ```bash
 npm run dev
 # or
@@ -13,14 +15,4 @@ pnpm dev
 # or
 bun dev
 ```
-
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
-
-## About the Project
-Simple Chess game, all the chess rules are followed, and you are able to take turns. This proejct is built using NextJs and Tailwind. 
-
-## Project is free to use!
